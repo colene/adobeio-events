@@ -14,5 +14,5 @@ I/O Events co-ordinates the delivery of an event from an Event Producer to an Ev
 - **Near Real-time responses**: 
 Events are delivered in near real time, so consumers can respond immediately to events as they occur.This helps in orchestrating streamline workflows, improve marketing performance, and create custom experiences that leverage the data more effectively. 
 
-- **Build Cloud Native Adobe Apps **: 
-Build custom apps that interact with core Adobe services, and automate processes with event-based integrations using Adobe Project Firefly whichcomes with the ability to publish/consume Custom I/O Events. 
+- **Build Cloud Native Adobe Apps**: 
+Build custom apps that interact with core Adobe services, and automate processes with event-based integrations using Project Firefly which comes with the ability to publish/consume Custom I/O Events. 
